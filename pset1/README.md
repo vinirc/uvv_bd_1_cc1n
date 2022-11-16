@@ -6,4 +6,4 @@ Professor: Abrantes Araújo Silva Filho
 
 Disciplina: Design e Desenvolvimento de Banco de Dados
 
-Turma: CC1M (2022)
+Turma: CC1N (2022)
